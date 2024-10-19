@@ -32,6 +32,7 @@ body {
    height: 80px;
    border-radius: 10px;
    margin-bottom: 15px;
+   overflow-x: scroll;
 }
 
 .buttons {
